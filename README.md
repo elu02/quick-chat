@@ -1,5 +1,5 @@
 # quick-chat
-[Link to Site](https://quickvideochat.herokuapp.com/)
+[Link to Site](https://quickvideochat.herokuapp.com/) (Heroku takes ~10 seconds to load)
 
 A React.js app that allows you to start a video chat with someone in seconds.
 
